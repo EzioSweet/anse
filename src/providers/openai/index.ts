@@ -34,6 +34,8 @@ const providerOpenAI = () => {
           { value: 'gpt-4o-2024-05-13', label: 'GPT 4o 0513' },
           { value: 'gpt-4o-2024-08-06', label: 'GPT 4o 0806' },
           { value: 'gpt-4o-mini-2024-07-18', label: 'GPT 4o Mini' },
+          { value: 'o1-mini', label: 'OpenAI o1 Mini' },
+          { value: 'o1-preview', label: 'OpenAI o1 Preview' },
           { value: 'claude-3-5-sonnet-20240620', label: 'Claude 3.5 Sonnet' },
           { value: 'claude-3-haiku-20240307', label: 'Claude 3 Haiku' },
           { value: 'claude-3-opus-20240229', label: 'Claude 3 Opus' },
